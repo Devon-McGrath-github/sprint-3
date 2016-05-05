@@ -13,4 +13,4 @@ I guess limited interaction. The site is to showcase my work, visitors need to b
 ##How will you build your site to support your desired user experience? 
 
 I really don't know yet.... I will use my knowledge of CSS and Media queries to make the site accessible and aesthetically pleasing
-but I am not sure beyond a basic idea of how I will achieve these goals. 
+but I am not sure beyond a basic idea of how I will achieve these goals. Lets see how it turns out?
